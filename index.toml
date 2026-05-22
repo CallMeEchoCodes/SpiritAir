@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/aerobig-1.2.0.jar"
+hash = "b467d50ddcfb519dd245ab1e78c3ce33552039a613b6083bab720154bb9bab8d"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "716d930feff599bf9ce732e05979fbae8025dc8a3c13ccf4f1cb207a70883bc6"
 metafile = true
@@ -19,6 +23,10 @@ metafile = true
 file = "mods/copycats.pw.toml"
 hash = "e002fab16a9b9ef0a35844030339612a38d3c58b0b93e97a34eb43ddc9108be7"
 metafile = true
+
+[[files]]
+file = "mods/cosmonautics-1.3.8rc5.jar"
+hash = "d1c5db2634fafbaa2ecc8cf3a5fee9df786d05739aec1b6f2f8c947f9d340188"
 
 [[files]]
 file = "mods/create-aeronautics-lift-patch.pw.toml"
