@@ -5,6 +5,11 @@ file = "mods/aerobig-1.2.0.jar"
 hash = "b467d50ddcfb519dd245ab1e78c3ce33552039a613b6083bab720154bb9bab8d"
 
 [[files]]
+file = "mods/aeronautics-dyeable-components.pw.toml"
+hash = "b218b7696365829e01cc3b6844913c757836d1ebdb0c49a9abf7a7fcbc0f6678"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "716d930feff599bf9ce732e05979fbae8025dc8a3c13ccf4f1cb207a70883bc6"
 metafile = true
