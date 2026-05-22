@@ -1,0 +1,13 @@
+name = "Spirit Air"
+author = "CallMeEcho"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "bd289cc41fa7277c29d0eb23d670649eaa48f6fd7ef3f9347d60803180409f20"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.230"

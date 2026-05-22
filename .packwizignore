@@ -1,0 +1,8 @@
+.git/**
+.gitattributes
+.gitignore
+
+.github/*
+
+*.zip
+*.mrpack

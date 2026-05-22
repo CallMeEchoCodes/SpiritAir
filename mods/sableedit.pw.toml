@@ -1,0 +1,13 @@
+name = "SableEdit"
+filename = "SableEdit-neoforge-0.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/O8cJkJ1H/versions/RGEtBj5G/SableEdit-neoforge-0.0.4.jar"
+hash-format = "sha512"
+hash = "6f7988ba21824c09903d43555d081f7251e9cff26a2894c7a7ab6f73a495845e714613431c8376440f4aaef24b23df52446ebb8444b9900ce2c1cbde9f8ae366"
+
+[update]
+[update.modrinth]
+mod-id = "O8cJkJ1H"
+version = "RGEtBj5G"

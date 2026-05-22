@@ -1,0 +1,30 @@
+name: Deploy packwiz pack to github pages
+
+on:
+  push:
+    branches: ["main"]
+  workflow_dispatch:
+
+permissions:
+  id-token: write
+  pages: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: import main
+        uses: actions/checkout@v6
+        with:
+          ref: main
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v5
+        with:
+          path: "."
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v5
