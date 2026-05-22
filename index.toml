@@ -1,8 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/aerobig-1.2.0.jar"
-hash = "b467d50ddcfb519dd245ab1e78c3ce33552039a613b6083bab720154bb9bab8d"
+file = "mods/aerobig-1.4.0.jar"
+hash = "c5ebb71987e72a1504b88a5ead5ca9a41d862e8c5bfb570497b7966fdd470c56"
 
 [[files]]
 file = "mods/aeronautics-dyeable-components.pw.toml"
@@ -79,14 +79,13 @@ hash = "b3adf7e1a518ce4e49332c3d5855d5c9cdc4ff10a31dc652e5daa85d8f33a619"
 metafile = true
 
 [[files]]
-file = "mods/create-tweaked-controllers.pw.toml"
-hash = "2c72104b4cf249d4f096f673293a41c199d611dc9b99a9055d463fa5cd90c7cd"
-metafile = true
-
-[[files]]
 file = "mods/create.pw.toml"
 hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
 metafile = true
+
+[[files]]
+file = "mods/create_tweaked_controllers-1.21.1-1.2.7-sdl.jar"
+hash = "852c3e835adc4b5ddc3e10df9e9f595660f9c1528ed2bb42b12aaa7597b8fe8c"
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
