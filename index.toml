@@ -93,6 +93,11 @@ file = "mods/create_tweaked_controllers-1.21.1-1.2.7-sdl.jar"
 hash = "852c3e835adc4b5ddc3e10df9e9f595660f9c1528ed2bb42b12aaa7597b8fe8c"
 
 [[files]]
+file = "mods/dimensional-sable.pw.toml"
+hash = "fb0effe4c6ef4c5a149d3b63b8fe51ac5449bf981cf7d74b06c7cb775cc5415a"
+metafile = true
+
+[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "a98dd7f86518a0de7bb3451bee7c8e1d7cec1b7fe00d97504ce7afd7e715ae2d"
 metafile = true

@@ -1,12 +1,12 @@
 name = "Spirit Air"
 author = "CallMeEcho"
-version = "1.0.4"
+version = "1.0.6"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "f8a34140df872f57498db2ef0cf63edf427c02cda6642fa3e39fbf2d15d1bdfd"
+hash = "f756d821c2f07dfe1758805c2d44e0db1c4a49ff47f2be82af3dcd0957bf2585"
 
 [versions]
 minecraft = "1.21.1"
