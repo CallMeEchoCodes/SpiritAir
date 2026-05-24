@@ -31,7 +31,7 @@ metafile = true
 
 [[files]]
 file = "mods/cosmonautics-1.3.8rc5.jar"
-hash = "2d1b1a2e2bbcc5c88510fb93b9b0fd295a76af87e40ead70ff9cfa717afa65f7"
+hash = "abfcfab63376394a62cf19888eb0805d9aec536192e9cd15bf9362d4bf16c045"
 
 [[files]]
 file = "mods/create-aeronautics-lift-patch.pw.toml"
@@ -71,6 +71,11 @@ metafile = true
 [[files]]
 file = "mods/create-framed.pw.toml"
 hash = "c6f449a5dbd6640cef3a2d46f198af505b1d3fe7cb38c43057bb16ea055c3d7f"
+metafile = true
+
+[[files]]
+file = "mods/create-linear-motion-simulated.pw.toml"
+hash = "fac3ac654ccc3f778b1689baa9c806cd1ce3a79fc0d319073259ecf46078cdaa"
 metafile = true
 
 [[files]]
