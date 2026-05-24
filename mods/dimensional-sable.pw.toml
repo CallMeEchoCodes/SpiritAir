@@ -1,6 +1,6 @@
 name = "Dimensional Sable"
 filename = "dimensional_sable-1.0.4.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/Iq9c4mLa/versions/LrkdIDoN/dimensional_sable-1.0.4.jar"
