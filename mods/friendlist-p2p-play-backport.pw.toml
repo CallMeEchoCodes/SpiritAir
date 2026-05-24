@@ -1,0 +1,13 @@
+name = "Friendlist & P2P Play Backport"
+filename = "flistp2p-neoforge-1.1.0+1.21.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/tcTGiWx3/versions/tUlkAIY3/flistp2p-neoforge-1.1.0%2B1.21.jar"
+hash-format = "sha512"
+hash = "b655edcf46a93a47fea5eb43a93a6be619e754930c0176dacb9b35b43fc1b00b82015a1d0e22219a87235faf45f313b3297ef9880d4bac787672e889c2b94a37"
+
+[update]
+[update.modrinth]
+mod-id = "tcTGiWx3"
+version = "tUlkAIY3"

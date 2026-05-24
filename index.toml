@@ -133,6 +133,11 @@ hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
 metafile = true
 
 [[files]]
+file = "mods/friendlist-p2p-play-backport.pw.toml"
+hash = "3c906a94b636839530f1c667506e594aea9234192fc4455dcedecdde4517cfb1"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "3d47b1d933d04934a606be1cbb67481860c3d68c9ed4efc387c7745d23b732a7"
 metafile = true
