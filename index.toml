@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/aerobig-1.4.0.jar"
-hash = "c5ebb71987e72a1504b88a5ead5ca9a41d862e8c5bfb570497b7966fdd470c56"
+hash = "016acbdedb8a628e95846e1d0eba3bd19f0de81033648ccd90e5deaf705778c4"
 
 [[files]]
 file = "mods/aeronautics-dyeable-components.pw.toml"
@@ -55,7 +55,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-connected.pw.toml"
-hash = "a548a99f9d9ba0d237aaf64acee67b29271d05a40c1c3ef87bc1bc18267c640c"
+hash = "57e8ff6c2bf41c7556f727251fda72946ebd8d849e5e83c141a679387a559dbc"
 metafile = true
 
 [[files]]
@@ -234,7 +234,7 @@ metafile = true
 
 [[files]]
 file = "mods/ssrd.pw.toml"
-hash = "5a97a663998b0a337febeae27a894142bce799e0a3323e217bed695dacbc6e9c"
+hash = "d0854c170e1c60a2d6958654ce4017e5ccf1d60e3f9211e995e376cf8e17419d"
 metafile = true
 
 [[files]]
