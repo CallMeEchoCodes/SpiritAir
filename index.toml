@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/create_connected-common.toml"
+hash = "408c5ca58e574ebaf88ef692b58f4fc5b11851385f542c74ca8bf2597b69acc5"
+
+[[files]]
 file = "mods/aerobig-1.4.0.jar"
 hash = "016acbdedb8a628e95846e1d0eba3bd19f0de81033648ccd90e5deaf705778c4"
 
