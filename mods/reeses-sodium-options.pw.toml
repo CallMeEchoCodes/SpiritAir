@@ -1,6 +1,7 @@
 name = "Reese's Sodium Options"
 filename = "reeses-sodium-options-neoforge-1.8.3+mc1.21.4.jar"
 side = "client"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/xAiCe6w8/reeses-sodium-options-neoforge-1.8.3%2Bmc1.21.4.jar"
