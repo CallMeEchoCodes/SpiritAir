@@ -167,6 +167,11 @@ hash = "e7e6b3effe3022cf1fdb900c857111fdcbfd6b385c2d5bd28c914efaed436ecb"
 metafile = true
 
 [[files]]
+file = "mods/jade-sable-compat.pw.toml"
+hash = "de4a88126c0c9ab4304ff4b6a9cf708d2587d0f572d035b51b3384e784dc6b2e"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "b6e0a61fea06f8d6d8e1672cf07b682625c4b74efd548d5093cd9c1fed167eec"
 metafile = true
