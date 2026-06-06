@@ -1,13 +1,13 @@
 name = "Separate Sable Render Distance (Aeronautics Addon)"
-filename = "SSRD-0.5-1.21.1.jar"
+filename = "SSRD-1.6-1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/fJ183v3D/versions/lng7cmmP/SSRD-0.5-1.21.1.jar"
+url = "https://cdn.modrinth.com/data/fJ183v3D/versions/W760dtnX/SSRD-1.6-1.21.1.jar"
 hash-format = "sha512"
-hash = "b708adff51de22c8a5582c2aabddad8ec54c72fdf7107828dd43bcc9d45ef4cde3ee81fce61a89ff64ddf92fecdb28d2a717534cb65fc0824b442b852743ce10"
+hash = "f6b72482a4d605e4d918438a806024d19079c7bb9746864b5806245daea8e31daa7f805d2e93674d0f9f292f8629abfa600c10e8ca7da3e112a6580892e9307d"
 
 [update]
 [update.modrinth]
 mod-id = "fJ183v3D"
-version = "lng7cmmP"
+version = "W760dtnX"

@@ -74,7 +74,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-deep-seas.pw.toml"
-hash = "d4f2eaaa8f09e041d52eae7c22c837032ea8f3befef7d21f82a8200244dac524"
+hash = "69e3313efa9a0cf2d336712382d86eeb6599cc687a7e359e42284379eadee2be"
 metafile = true
 
 [[files]]
@@ -128,7 +128,7 @@ metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "36732fd7fdad0831fdaef0c806def4ebcab5084bfd851bcff5e948923cd1b1d7"
+hash = "044f4e68ee8829f974513d252a5b49082468b2cd9cc2c63ec5844ba9e420b09d"
 metafile = true
 
 [[files]]
@@ -258,7 +258,7 @@ metafile = true
 
 [[files]]
 file = "mods/ssrd.pw.toml"
-hash = "d0854c170e1c60a2d6958654ce4017e5ccf1d60e3f9211e995e376cf8e17419d"
+hash = "ffaa11cd58e879d8309976f670f82d156ef5286cef6daad2e76b0fc3902fb4e0"
 metafile = true
 
 [[files]]
