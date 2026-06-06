@@ -39,8 +39,8 @@ hash = "e002fab16a9b9ef0a35844030339612a38d3c58b0b93e97a34eb43ddc9108be7"
 metafile = true
 
 [[files]]
-file = "mods/cosmonautics-1.3.8rc5.jar"
-hash = "abfcfab63376394a62cf19888eb0805d9aec536192e9cd15bf9362d4bf16c045"
+file = "mods/cosmonautics-1.3.8rc8.jar"
+hash = "c4bd9c392d112228e05795b5b1de344de1d831562d08a5458fdccfa6626fb8c4"
 
 [[files]]
 file = "mods/create-aeronautics-lift-patch.pw.toml"
