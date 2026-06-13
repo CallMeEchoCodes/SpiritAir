@@ -9,11 +9,6 @@ file = "mods/aerobig-1.5.0.jar"
 hash = "b477c561c5f2e59b6b89da26316719b54ab9ed7b3c725568bcb3fd4ebe4bf926"
 
 [[files]]
-file = "mods/aeronautics-dyeable-components.pw.toml"
-hash = "b218b7696365829e01cc3b6844913c757836d1ebdb0c49a9abf7a7fcbc0f6678"
-metafile = true
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "716d930feff599bf9ce732e05979fbae8025dc8a3c13ccf4f1cb207a70883bc6"
 metafile = true
@@ -207,11 +202,6 @@ hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
 metafile = true
 
 [[files]]
-file = "mods/neoforge-carpet.pw.toml"
-hash = "7513ef48054b3d2d72aace3d3f39440c6b533ba518ea8d4cfaf1fb6d30dd9e7d"
-metafile = true
-
-[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "03bfdca138de9c56b29b120a3a1693269951d261916a8bc16e48d0c3576e72fe"
 metafile = true
@@ -224,11 +214,6 @@ metafile = true
 [[files]]
 file = "mods/petrols-parts.pw.toml"
 hash = "9421934b10433b6a421bd7c2d38a3c59023c316f17a4e9d7ce6152e7e039da85"
-metafile = true
-
-[[files]]
-file = "mods/reeses-sodium-options.pw.toml"
-hash = "61d572ec6e241a8374db15e453074a7ae70485a0caf9082b9b39c608410f643a"
 metafile = true
 
 [[files]]
@@ -249,16 +234,6 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "e8964aa3252bc02d75abbeac52b4d8deb621e56bc6b549e3127b0f2bc4a76fc2"
-metafile = true
-
-[[files]]
-file = "mods/ssrd.pw.toml"
-hash = "1a8c3d6ea5da99e223a66c521362cc4c5d39c6f3987981fc3b47c50b39631015"
-metafile = true
-
-[[files]]
-file = "mods/touys.pw.toml"
-hash = "cfba4887821d3a994ccee8e7e76cf2d9b1fb50171d4172bf62bd10604bf6675f"
 metafile = true
 
 [[files]]
