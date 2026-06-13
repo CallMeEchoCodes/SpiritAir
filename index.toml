@@ -83,11 +83,6 @@ hash = "c6f449a5dbd6640cef3a2d46f198af505b1d3fe7cb38c43057bb16ea055c3d7f"
 metafile = true
 
 [[files]]
-file = "mods/create-linear-motion-simulated.pw.toml"
-hash = "fac3ac654ccc3f778b1689baa9c806cd1ce3a79fc0d319073259ecf46078cdaa"
-metafile = true
-
-[[files]]
 file = "mods/create-propulsion-simulated.pw.toml"
 hash = "b3adf7e1a518ce4e49332c3d5855d5c9cdc4ff10a31dc652e5daa85d8f33a619"
 metafile = true
