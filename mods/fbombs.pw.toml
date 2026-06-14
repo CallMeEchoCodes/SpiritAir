@@ -1,0 +1,13 @@
+name = "FBombs"
+filename = "fbombs-1.2.1+1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LEghcpvj/versions/ZAhVBaVJ/fbombs-1.2.1%2B1.21.jar"
+hash-format = "sha512"
+hash = "423e1d488a164862b794cb07b737a1e4f5a6be1317f1d8f2ab94f51ada8cbe97d116df9d52d075f69b2be68152fba4ba863f4a42426b214035035b2b97deaeb9"
+
+[update]
+[update.modrinth]
+mod-id = "LEghcpvj"
+version = "ZAhVBaVJ"
