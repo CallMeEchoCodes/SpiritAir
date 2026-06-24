@@ -5,6 +5,10 @@ file = "config/create_connected-common.toml"
 hash = "408c5ca58e574ebaf88ef692b58f4fc5b11851385f542c74ca8bf2597b69acc5"
 
 [[files]]
+file = "config/create_submarine-common.toml"
+hash = "743a0b5fb718f9dda5d3e3534ad79894995fc6bee21add02ea5d926d80181f4d"
+
+[[files]]
 file = "mods/aerobig-1.5.0.jar"
 hash = "b477c561c5f2e59b6b89da26316719b54ab9ed7b3c725568bcb3fd4ebe4bf926"
 
@@ -39,8 +43,8 @@ hash = "e002fab16a9b9ef0a35844030339612a38d3c58b0b93e97a34eb43ddc9108be7"
 metafile = true
 
 [[files]]
-file = "mods/cosmonautics-1.3.8rc8.jar"
-hash = "c4bd9c392d112228e05795b5b1de344de1d831562d08a5458fdccfa6626fb8c4"
+file = "mods/cosmonautics-1.4.0rc1.jar"
+hash = "d0e52d88e52d19247c6255961cf369f9036317be9ebf655786eb5fbe85ce16e9"
 
 [[files]]
 file = "mods/create-aeronautics-lift-patch.pw.toml"
@@ -64,7 +68,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-connected.pw.toml"
-hash = "19f3a244bf8ffca1aa53621524681f98c680e8395323e7fa50c93169a6851a74"
+hash = "61afa588fd3156a29418aef463c527308b014e72d86b5ca7c03f2f28973ca27a"
 metafile = true
 
 [[files]]
@@ -74,7 +78,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-deep-seas.pw.toml"
-hash = "72a5657805df38c180ff1cf88b7f4207ad8a93855721218b90a739a299666eb4"
+hash = "404db1758af44123b89cbf6e2ffdf4a5cf11b708be665f48657ff40735723152"
 metafile = true
 
 [[files]]
@@ -108,12 +112,12 @@ hash = "383320787337e03fb4655eafaba893dc67a2fa5129c5bd1d09c02dbab321fdca"
 
 [[files]]
 file = "mods/dimensional-sable.pw.toml"
-hash = "81114cf4113256d1d70edadc3a79e9039b9cad04e8c8e150954bc3f77c3ac8dd"
+hash = "812514738797aef05b5e8e28a7059400b6728aeb66db5b68c73e5a94470c8123"
 metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "a98dd7f86518a0de7bb3451bee7c8e1d7cec1b7fe00d97504ce7afd7e715ae2d"
+hash = "937a5af04455f2afb7bac9184749d36b0e340ab5c4e70fc21ae8ec74de043c08"
 metafile = true
 
 [[files]]
@@ -123,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "b937a400500620773a44f670ba690ddac9ad71e9f3fed82658eae1670358118f"
+hash = "e1e8a78328d41538ae90f1302537faf5142ed414370fb804ff821d1d1ae34315"
 metafile = true
 
 [[files]]
@@ -133,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "590437e0f344c87791842b791a400e95ffd4154f02a04c2d8d78b43a76c659ad"
+hash = "4fbe037c1ec3570be84f68e075c3e8293b15f64dda22bca4735924705fb38236"
 metafile = true
 
 [[files]]
@@ -168,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade-sable-compat.pw.toml"
-hash = "dc60a6e206bfd63faa85e420d94deab4efb8948b52960d01ba929f12f4ceb94f"
+hash = "9728776375b66d2b4a450238373072873ed0e50596e95fca857368726f38ecb3"
 metafile = true
 
 [[files]]
@@ -178,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "d77c41bf5a8dd470d65e7946d507657a910b54d2e76f4b3ced4fe4addc2d52d4"
+hash = "b85d562b35f68cdbb0f79bbdebc11cb938002c727d9f982ed5743c8488c74ac7"
 metafile = true
 
 [[files]]
@@ -198,7 +202,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "930630c216e60e2f8798e33f2a0821d22a4a71ae79eedb42d9d67631ada6853c"
+hash = "0b2e5afd8e76ff119e6212a077a07a3b786776811f968287f0a219f106c8e175"
 metafile = true
 
 [[files]]
@@ -213,12 +217,12 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "03bfdca138de9c56b29b120a3a1693269951d261916a8bc16e48d0c3576e72fe"
+hash = "e92633222b9275744ba9ae7a90781494f67933924b56ea8287c5dc7553e77e17"
 metafile = true
 
 [[files]]
 file = "mods/petrolpark.pw.toml"
-hash = "d697896268af5b0b91ac4736007bbccd301aa8aa428c03ed70e23a15d719527e"
+hash = "ff0b2e2116e40733173c4e6654e838e196cd227f75533befd442b4e8c38b0c79"
 metafile = true
 
 [[files]]
@@ -228,7 +232,7 @@ metafile = true
 
 [[files]]
 file = "mods/sable.pw.toml"
-hash = "14dd933b66ac458d9fcf4cdee8752231537307dd8de568107aea4dbb0a5fdf24"
+hash = "674aaf0dc67f808f0054cfc7bbe041d6725fcbbe97644a85ffbd946a22d35666"
 metafile = true
 
 [[files]]
@@ -243,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "e8964aa3252bc02d75abbeac52b4d8deb621e56bc6b549e3127b0f2bc4a76fc2"
+hash = "25324a8a9cdc663d3d1952191e873f87531011715de49673cbf7c1b0da0504d6"
 metafile = true
 
 [[files]]
@@ -258,5 +262,5 @@ metafile = true
 
 [[files]]
 file = "mods/zfastnoise.pw.toml"
-hash = "af3b933c5441a76e9124a3d2155082579f183f64d89448168586bae68adf55eb"
+hash = "32e4e08290989b9dcda34b18943a366c33a26ba9d8a0990499d43f4f2030910a"
 metafile = true

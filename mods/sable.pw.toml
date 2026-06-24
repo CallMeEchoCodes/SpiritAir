@@ -1,13 +1,13 @@
 name = "Sable"
-filename = "sable-neoforge-1.21.1-2.0.0.jar"
+filename = "sable-neoforge-1.21.1-2.0.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/T9PomCSv/versions/NGuyFOeE/sable-neoforge-1.21.1-2.0.0.jar"
+url = "https://cdn.modrinth.com/data/T9PomCSv/versions/1L6XJqnY/sable-neoforge-1.21.1-2.0.3.jar"
 hash-format = "sha512"
-hash = "c911f179e7d3c4abf97982ca861dc4c4486c036bc985f5684c4df8f846346ca8eb46e15399eebe41a3c98269b7c117ba7d1b6247e3bbfec41b3b510cff4e9a9a"
+hash = "c13c4da086001c205361905cd3a6c59a76e3c7d4c082265aaf3baf2fd30c79808f6634bca89aba29db5c096aa7da4066f76454093c306c3ae91c6c0d4d63ae0d"
 
 [update]
 [update.modrinth]
 mod-id = "T9PomCSv"
-version = "NGuyFOeE"
+version = "1L6XJqnY"

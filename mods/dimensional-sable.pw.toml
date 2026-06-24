@@ -1,13 +1,13 @@
 name = "Dimensional Sable"
-filename = "dimensional_sable-1.0.4.jar"
+filename = "dimensional_sable-1.0.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Iq9c4mLa/versions/LrkdIDoN/dimensional_sable-1.0.4.jar"
+url = "https://cdn.modrinth.com/data/Iq9c4mLa/versions/l9l5j4Zh/dimensional_sable-1.0.5.jar"
 hash-format = "sha512"
-hash = "9611d128b0f228adda8c1f774c33203fb0d807e4c81ac33ca230e2e927ac6d3a4bbadcd6df7eb5853745e4a80591c75ac6a52ad4aaff1742a0e3681e2baf9765"
+hash = "84421abac18acb14304244b906c02e97df44df7d807d7fa4527e802aaed4feab635b4b1eb75a2da90a2a8338546e8df990c6b686c3940bd68419e41a13c90843"
 
 [update]
 [update.modrinth]
 mod-id = "Iq9c4mLa"
-version = "LrkdIDoN"
+version = "l9l5j4Zh"
