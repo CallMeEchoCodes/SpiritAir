@@ -24,7 +24,7 @@ metafile = true
 
 [[files]]
 file = "mods/connector.pw.toml"
-hash = "e487d315e7a44f917cd1ddc2da1b26e65968bc19fe6c0ac868dab3d2bb97bbf1"
+hash = "dfc42a26ddd76ee99cad6f023e0c14c82cbb91d2338f7eeac678a05e3e2a13fa"
 metafile = true
 
 [[files]]
@@ -41,10 +41,6 @@ metafile = true
 file = "mods/copycats.pw.toml"
 hash = "e002fab16a9b9ef0a35844030339612a38d3c58b0b93e97a34eb43ddc9108be7"
 metafile = true
-
-[[files]]
-file = "mods/cosmonautics-1.4.0rc1.jar"
-hash = "d0e52d88e52d19247c6255961cf369f9036317be9ebf655786eb5fbe85ce16e9"
 
 [[files]]
 file = "mods/create-aeronautics-lift-patch.pw.toml"
@@ -69,6 +65,11 @@ metafile = true
 [[files]]
 file = "mods/create-connected.pw.toml"
 hash = "61afa588fd3156a29418aef463c527308b014e72d86b5ca7c03f2f28973ca27a"
+metafile = true
+
+[[files]]
+file = "mods/create-cosmonautics.pw.toml"
+hash = "9fc0d26a6b87757b2280af0dd872acfd01690d3db19aa0d788baa16304a8ed94"
 metafile = true
 
 [[files]]
@@ -157,7 +158,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "3d47b1d933d04934a606be1cbb67481860c3d68c9ed4efc387c7745d23b732a7"
+hash = "94af73eec28b59b314b2c6ef9dfb98f37d7bbcbcb482c278570cc15e44b6a559"
 metafile = true
 
 [[files]]
@@ -192,12 +193,12 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "58e0bebd41fa44f3f0dd6c053ec3eb1529d4bfe0c054c0741ba6e2e1b8e4523e"
+hash = "51e129832b04acd57da470fc41725bad5e101b6a6b1d4901fd8ea7a92b14e13d"
 metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "0b2e5afd8e76ff119e6212a077a07a3b786776811f968287f0a219f106c8e175"
+hash = "6cb90789f0adf2996fd38d3bb22d3e6e09fe00d25653ed5012e8f10846ed6df7"
 metafile = true
 
 [[files]]
@@ -242,7 +243,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "25324a8a9cdc663d3d1952191e873f87531011715de49673cbf7c1b0da0504d6"
+hash = "b09f7819bbd22c2cc6a70601295721cb3bee6d830ca2f51fdacb50de519596e8"
 metafile = true
 
 [[files]]
