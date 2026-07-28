@@ -63,8 +63,8 @@ hash = "61afa588fd3156a29418aef463c527308b014e72d86b5ca7c03f2f28973ca27a"
 metafile = true
 
 [[files]]
-file = "mods/create-cosmonautics.pw.toml"
-hash = "02276a7f4d07e4405949aaa80e0117e006eb39f988efe7d489cbb8eba7422b55"
+file = "mods/create-cosmonatics.pw.toml"
+hash = "85db243bd9495608c9b8bcee8482c4f2b4b1761d12c108a741139fb498cb5e3c"
 metafile = true
 
 [[files]]
