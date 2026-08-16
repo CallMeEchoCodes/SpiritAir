@@ -1,13 +1,13 @@
 name = "Ears (+ Snouts/Muzzles, Tails, Horns, Wings, and More)"
-filename = "ears-neoforge-1.21-1.4.7.jar"
+filename = "five-buzz-neoforge-2.0.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/mfzaZK3Z/versions/Dxc2NR3x/ears-neoforge-1.21-1.4.7.jar"
+url = "https://cdn.modrinth.com/data/mfzaZK3Z/versions/L3yCjYrE/five-buzz-neoforge-2.0.1.jar"
 hash-format = "sha512"
-hash = "52fc315373bd014fd388c970c17bbd6873593e169841edb8d346bbf176401a527a65f074f1ddf28ebcb87cd5c469aadf64b3f99700f7112c1e0966b42920c7d8"
+hash = "7ff56d2077b305ef4d98c8d5ddaca92da0262a03a3fa9155b6774fdcec0cd7e3a7bcdb9be579768ba5b40080096f7f9b59b9c375b5b6de5c2b800f70c199aa15"
 
 [update]
 [update.modrinth]
 mod-id = "mfzaZK3Z"
-version = "Dxc2NR3x"
+version = "L3yCjYrE"
